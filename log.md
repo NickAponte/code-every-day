@@ -35,6 +35,14 @@ This morning I worked on some python code challeneges
 the more reps the better, learned that the .sort() python method does not have a return, it mutates the original array rather than creating a newo ne. Good to know!
 
 **Link to work:**
+### Day 3-6: Tuesday April 6, 2021 
+
+
+**Progress**: These last few days were dedicated to my Phaser.io game, Air hockey! It turned out great, but theres many features I want to fix/add. Check out the readme on the repo for more info! 
+
+**Thoughts:**  
+
+**Link to work:**  --> https://github.com/NickAponte/Air-Hockey-phaser.io
 1[challengesPython](day_2/challenges.py)
 <!-- ### TEMPLATE
 ### Day 0: Tuesday April 6, 2021 
