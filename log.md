@@ -44,7 +44,7 @@ the more reps the better, learned that the .sort() python method does not have a
 
 **Link to work:**  --> https://github.com/NickAponte/Air-Hockey-phaser.io
 
-### Day 7: Tuesday April 6, 2021 
+### Day 7: Tuesday April 13, 2021 
 
 
 **Today's Progress**: Today I worked more on getting a will crud python working. More reps! git add .
