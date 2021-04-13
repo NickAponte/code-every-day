@@ -43,7 +43,17 @@ the more reps the better, learned that the .sort() python method does not have a
 **Thoughts:**  
 
 **Link to work:**  --> https://github.com/NickAponte/Air-Hockey-phaser.io
-1[challengesPython](day_2/challenges.py)
+
+### Day 7: Tuesday April 6, 2021 
+
+
+**Today's Progress**: Today I worked more on getting a will crud python working. More reps! git add .
+
+**Thoughts:**  
+
+**Link to work:** 
+
+
 <!-- ### TEMPLATE
 ### Day 0: Tuesday April 6, 2021 
 
